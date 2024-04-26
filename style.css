@@ -1,0 +1,18 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+  margin:0;
+  padding:0;
+  
+}
+
+.dataHolder{
+  margin-top: 2dvh;
+  width: 100%;
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+  padding: 10px;
+}
